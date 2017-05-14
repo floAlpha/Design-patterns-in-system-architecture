@@ -10,7 +10,6 @@ public class Consumer {
 	   
 	    Meal meal=waiter.construct(); //客户获得套餐
 	    
-        
         System.out.println("套餐组成A：");
         System.out.println(meal.getfood());
         System.out.println(meal.getdrink());
