@@ -1,5 +1,5 @@
 
-public class Test implements Cloneable{
+public class Test implements Cloneable{//java Clone ²âÊÔ
 	
 	String test = "test";
 	public Test() {
